@@ -1,7 +1,7 @@
 # bostonhousepricing
 
 
-### Software and Tools requirements
+### Software and Tool requirements
 
 1. [Github Account](https://github.com)
 2. [VScodeIDE] (https://code.visualstudio.com/)
